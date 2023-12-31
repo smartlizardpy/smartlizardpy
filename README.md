@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @smartlizardpy
+- 👀 I’m interested in backend devlopment
+- 🌱 I’m currently learning python and javascript
+- 💞️ I’m looking to collaborate on website projects like chat apps
+- 📫 How to reach me github
