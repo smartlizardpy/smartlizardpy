@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SaaS ideas built on Vue.js <br>👯 I’m looking to collaborate on Vue.js web apps<br>🌱 I’m currently learning Flask<br>💬 Ask me about Vuejs<br>⚡ Fun fact Im dumb
+🔭 I’m currently working on SaaS ideas built on Vue.js <br>👯 I’m looking to collaborate on Vue.js web apps<br>🌱 I’m currently learning Golang<br>💬 Ask me about Vuejs<br>⚡ Fun fact Im dumb
 
 
 ## 🌐 Socials:
